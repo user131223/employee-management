@@ -1,0 +1,19 @@
+{
+    "properties": [
+        {
+            "name": "tcs.app.jwtExpirationMs",
+            "type": "java.lang.String",
+            "description": "A description for 'tcs.app.jwtExpirationMs'"
+        },
+        {
+            "name": "tcs.app.jwtCookieName",
+            "type": "java.lang.String",
+            "description": "A description for 'tcs.app.jwtCookieName'"
+        },
+        {
+            "name": "tcs.app.jwtSecret",
+            "type": "java.lang.String",
+            "description": "A description for 'tcs.app.jwtSecret'"
+        }
+    ]
+}
